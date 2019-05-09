@@ -1,0 +1,6 @@
+framework module Jtool {
+  umbrella header "Jtool-umbrella.h"
+
+  export *
+  module * { export * }
+}
